@@ -1,0 +1,15 @@
+{
+  "name": "project02-atm-machine",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "A simple ATM Machine",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uzair",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
